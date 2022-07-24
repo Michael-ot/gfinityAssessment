@@ -41,7 +41,9 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ['@nuxtjs/sanity/module'],
+  modules: [
+    
+  ],
 
   sanity: {
     projectId: "21fy9g0s",
